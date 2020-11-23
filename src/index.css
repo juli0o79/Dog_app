@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;500&display=swap');
+
+
+html{
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to right top, #e53200, #e63e00, #e64800, #e75200, #e75a00, #e96300, #ea6c00, #ec7400, #ef7f00, #f28a00, #f49500, #f6a000);
+    background-repeat: no-repeat;
+    background-size: auto;
+    overflow-x: hidden;
+    font-family: 'Oswald', sans-serif;
+    
+    
+}
